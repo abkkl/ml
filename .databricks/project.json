@@ -1,6 +1,5 @@
 {
   "host": "https://adb-3126347638761390.10.azuredatabricks.net/",
   "authType": "azure-cli",
-  "clusterId": "0313-093226-sen4phjr",
   "workspacePath": "/Users/fixed-term.ahmet.bakkal@maxiongroup.onmicrosoft.com/.ide/ml-341b9686"
 }
